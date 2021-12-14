@@ -1,7 +1,7 @@
 # Spring Boot TDD Start!
 
 유스콘'21 Spring Boot TDD Start 세션  
-12월 19일 늦은 4시에 유스콘에서 만나요 🙌
+2021년 12월 19일 늦은 4시에 유스콘에서 만나요 🙌
 
 
 ## 누구를 대상으로 하나요?
