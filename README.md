@@ -42,7 +42,7 @@ TDD는 작은 단위에 테스트 케이스를 작성하고 이를 통과하는 
  ```
 요청
  curl --request POST \
-  --url https:/seok2.dev/v1/gifts
+  --url https://seok2.dev/v1/gifts
   --header 'Content-Type: application/json' \
   --data '{"phone":"01012345678","amount":10000}'
  ```
