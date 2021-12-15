@@ -1,6 +1,6 @@
 # Spring Boot TDD Start!
 
-유스콘'21 Spring Boot TDD Start 세션  
+[유스콘'21](https://frost-witch-afb.notion.site/YOUTHCON-21-365e94c3df3443e5b1322520a8b1a2ef) Spring Boot TDD Start 세션  
 2021년 12월 19일 늦은 4시에 유스콘에서 만나요 🙌
 
 ## 무엇을 하나요?
